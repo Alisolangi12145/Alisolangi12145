@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Solangi</h1>
+<h1 align="center">Hi 👋, I'm Ali Majid Solangi</h1>
 <h3 align="center">An aspiring Data Science Explorer</h3>
 
 <img align="center"  src="https://www.lambdatest.com/resources/images/news24.gif" />
